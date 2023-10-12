@@ -7,3 +7,5 @@ Liu, B., Adaptive Annealed Importance Sampling for Multimodal Posterior Explorat
 If you use this code, pls cite this paper.
 
 Just run "main_AAIS.m" to test the code.
+
+A more user friendly version of this code is available at: https://github.com/robinlau1981/MarginalLikelihoodEstimator
